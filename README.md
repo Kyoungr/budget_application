@@ -2,7 +2,7 @@
 # CSCI495-C4
 
 ## Description / Purpose
-The purpose of this web application is to allow me to track my income and expenses in a easy to use interface. 
+The purpose of this web application is to allow me to track my income and expenses with an easy to use interface. 
 
 ## Dependencies
 - None
